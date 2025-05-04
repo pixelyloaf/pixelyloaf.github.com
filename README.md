@@ -1,3 +1,5 @@
+# none of the stuff below is from me (yet)
+
 # This is just the stuff for my Website. </br>
 
 ### Build Status: </br>
